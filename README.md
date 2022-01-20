@@ -1,1 +1,1 @@
-# RockPaperScissors-TheGame
+# Rock Paper Scissors
